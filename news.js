@@ -1,0 +1,3 @@
+var news = [
+  "<h1>Hello, world!</h1>hi"
+]
