@@ -41,6 +41,14 @@
     },
 
     {
+        "name": "wocky challenge",
+        "creator": "drsdz",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/wocky%20challenge.png",
+        "videoURL": "https://youtu.be/UMmTbXQ1FEk",
+        "levelID":"1054"
+    },
+
+    {
         "name": "The Lomamov Limit",
         "creator": "KopelaSoula",
         "imageURL": "images/source/lomamov limit.png",
