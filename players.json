@@ -1,17 +1,23 @@
 [
-  "Zefirfy": [
-    [1064, true],
-    [1003, true],
-    [869, true],
-    [683, false],
-    [587, false]
-  ],
+  {
+    "name":"Zefirfy",
+    "levels": [
+      [1064, true],
+      [1003, true],
+      [869, true],
+      [683, false],
+      [587, false]
+    ]
+  },
 
-  "Test": [
-    [1064, false],
-    [1003, false],
-    [869, false],
-    [683, true],
-    [587, true]
-  ]
+  {
+    "name":"Test",
+    "levels": [
+      [1064, false],
+      [1003, false],
+      [869, false],
+      [683, true],
+      [587, true]
+    ]
+  }
 ]
