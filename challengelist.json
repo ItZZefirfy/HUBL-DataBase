@@ -78,6 +78,14 @@
         "imageURL": "images/source/arganoid.png",
         "videoURL": false,
         "levelID":"1010"
+    }, 
+
+    {
+        "name": "Hoarfrost challenge",
+        "creator": "SUNDER",
+        "imageURL": "",
+        "videoURL": "https://youtu.be/32wwFODjcMQ?si=xmFQgKBDrEoxY3nY",
+        "levelID":"1146"
     },
 
     {
