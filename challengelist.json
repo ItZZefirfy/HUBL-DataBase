@@ -1,27 +1,10 @@
 [
-
-    {
-        "name": "The End",
-        "creator": "Mark",
-        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/the%20end.png",
-        "videoURL": "https://youtu.be/Pf2AHzs2Vyg?si=V0qwOKExi2vlDxp0",
-        "levelID":"1028"
-    },    
-
     {
         "name": "The line",
         "creator": "Zefirfy",
         "imageURL": "images/source/The line.png",
         "videoURL": "https://youtu.be/KbegwpPp2xg",
         "levelID":"1064"
-    },
-
-    {
-        "name": "6c2joh",
-        "creator": "TOBAP",
-        "imageURL": "images/source/6c2joh.png",
-        "videoURL": "https://youtu.be/urfJLj1i_-M?si=0xke-A89ynTdvN0F",
-        "levelID":"1055"
     },
     
     {
@@ -52,7 +35,7 @@
         "name": "The Lomamov Limit",
         "creator": "KopelaSoula",
         "imageURL": "images/source/lomamov limit.png",
-        "videoURL": "https://youtu.be/xmhnFZc4bAE?si=h8ScF9c8GjVaiTnO",
+        "videoURL": false,
         "levelID":"683"
     },
 
