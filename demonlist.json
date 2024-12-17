@@ -1,7 +1,8 @@
 [
     {
         "name": "Eternal",
-        "creator": "Ruslanych",
+        "creator": "Ta6petKa",
+        "verifier": "Ruslanych",
         "imageURL": "images/source/Eternal.png",
         "videoURL": "https://youtu.be/KJMOmyOIh4c",
         "levelID":"887"
@@ -9,7 +10,8 @@
 
     {
         "name": "Sparkler",
-        "creator": "ROXYGMD",
+        "creator": "--collaboration--",
+        "verifier": "-unknown-",
         "imageURL": "images/source/Sparkler.png",
         "videoURL": "https://youtu.be/tRKhWrZEvYI?si=jiONSwqXEC2AEXH2",
         "levelID":"1036"
@@ -17,7 +19,8 @@
 
     {
         "name": "Aquatic wave",
-        "creator": "Artembird",
+        "creator": "-unknown-",
+        "verifier": "Artembird",
         "imageURL": "images/source/Aquatic wave.png",
         "videoURL": false,
         "levelID":"542"
@@ -26,6 +29,7 @@
     {
         "name": "250 MPH",
         "creator": "Artembird",
+        "verifier": "Artembird",
         "imageURL": "images/source/250 MPH.png",
         "videoURL": false,
         "levelID":"454"
@@ -34,6 +38,7 @@
     {
         "name": "Apple Vomit",
         "creator": "Artembird",
+        "verifier": "Artembird",
         "imageURL": "images/source/Apple Vomit.png",
         "videoURL": "https://drive.google.com/file/d/1P7gYKW_mX1MbZPkfwh9H7-VvnAcQVxd_/view",
         "levelID":"596"
@@ -42,6 +47,7 @@
     {
         "name": "Older Wave",
         "creator": "Nerd",
+        "verifier": "-unknown-",
         "imageURL": "images/source/older wave.png",
         "videoURL": false,
         "levelID":"551"
@@ -50,6 +56,7 @@
     {
         "name": "Just like",
         "creator": "Peredoznik",
+        "verifier": "-unknown-",
         "imageURL": "images/source/just like.png",
         "videoURL": "https://youtu.be/0_5Fh3c1WWw?si=jpvbeLzB8A3pGhFi",
         "levelID":"206"
@@ -58,6 +65,7 @@
     {
         "name": "Just Demon",
         "creator": "Peredoznik",
+        "verifier": "-unknown-",
         "imageURL": "images/source/just demon.png",
         "videoURL": false,
         "levelID":"232"
@@ -66,6 +74,7 @@
     {
         "name": "Just a demon",
         "creator": "ItsDarknessCat ",
+        "verifier": "-unknown-",
         "imageURL": "images/source/just a demon.png",
         "videoURL": false,
         "levelID":"148"
@@ -73,7 +82,8 @@
     
     {
         "name": "MrBeast",
-        "creator": "Mr Beast (LomamovRu)",
+        "creator": "LomamovRu",
+        "verifier": "LomamovRu",
         "imageURL": "images/source/mr beast.png",
         "videoURL": "https://youtu.be/bEuRJiu_n1Y?si=Uzku5s_hbIyTOT96",
         "levelID":"170"
