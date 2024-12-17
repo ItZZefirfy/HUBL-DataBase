@@ -2,6 +2,7 @@
     {
         "name": "The line",
         "creator": "Zefirfy",
+        "verifier": "Zefirfy",
         "imageURL": "images/source/The line.png",
         "videoURL": "https://youtu.be/KbegwpPp2xg",
         "levelID":"1064"
@@ -10,6 +11,7 @@
     {
         "name": "The Hallucination",
         "creator": "Zefirfy",
+        "verifier": "Zefirfy",
         "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/The%20Hallucination.png",
         "videoURL": "https://youtu.be/_5ogjqKenIw",
         "levelID":"1207"
@@ -18,6 +20,7 @@
     {
         "name": "L",
         "creator": "Zefirfy",
+        "verifier": "Zefirfy",
         "imageURL": "images/source/L.png",
         "videoURL": "https://youtu.be/EdbSxtL7ykI",
         "levelID":"1003"
@@ -26,6 +29,7 @@
     {
         "name": "green chall for GODZ",
         "creator": "KopelaSoula",
+        "verifier": "KopelaSoula",
         "imageURL": "https://i.ytimg.com/vi/2zJ7x8n3Fq0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg5IEgofzAP&rs=AOn4CLCZe9P55_Siq8DsGL3p3JIAU38rCg",
         "videoURL": "https://youtu.be/2zJ7x8n3Fq0?si=a3TB0K3KiFPHkMdl",
         "levelID":"1160"
@@ -34,6 +38,7 @@
     {
         "name": "Project Z",
         "creator": "Zefirfy",
+        "verifier": "Zefirfy",
         "imageURL": "images/source/project z.png",
         "videoURL": "https://www.youtube.com/watch?v=vyLgpk1gEmM",
         "levelID":"869"
@@ -42,6 +47,7 @@
     {
         "name": "wocky challenge",
         "creator": "drsdz",
+        "verifier": "drsdz",
         "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/wocky%20challenge.png",
         "videoURL": "https://youtu.be/UMmTbXQ1FEk",
         "levelID":"1054"
@@ -50,6 +56,7 @@
     {
         "name": "The Lomamov Limit",
         "creator": "KopelaSoula",
+        "verifier": "KopelaSoula",
         "imageURL": "images/source/lomamov limit.png",
         "videoURL": false,
         "levelID":"683"
@@ -58,6 +65,7 @@
     {
         "name": "8joh",
         "creator": "TOBAP",
+        "verifier": "Artembird",
         "imageURL": "images/source/8joh.png",
         "videoURL": "https://drive.google.com/file/d/1gkoUxw7gEORAX1X2hE356q4cTN62Zdq-/view?usp=sharing",
         "levelID":"989"
@@ -66,6 +74,7 @@
     {
         "name": "KOCMOC Challenge",
         "creator": "Artembird",
+        "verifier": "Artembird",
         "imageURL": "images/source/KOCMOC challenge.png",
         "videoURL": false,
         "levelID":"363"
@@ -74,6 +83,7 @@
     {
         "name": "Arganoid",
         "creator": "KopelaSoula",
+        "verifier": "KopelaSoula",
         "imageURL": "images/source/arganoid.png",
         "videoURL": false,
         "levelID":"1010"
@@ -82,6 +92,7 @@
     {
         "name": "Hoarfrost challenge",
         "creator": "SUNDER",
+        "verifier": "SUNDER",
         "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/Hoarfrost%20challenge.png",
         "videoURL": "https://youtu.be/32wwFODjcMQ?si=xmFQgKBDrEoxY3nY",
         "levelID":"1146"
@@ -90,6 +101,7 @@
     {
         "name": "NORMALITY",
         "creator": "Mark",
+        "verifier": "Mark",
         "imageURL": "images/source/normality.png",
         "videoURL": false,
         "levelID":"587"
@@ -98,6 +110,7 @@
     {
         "name": "dark side of moon",
         "creator": "mintyzz",
+        "verifier": "mintyzz",
         "imageURL": "images/source/dark side of moon.png",
         "videoURL": "https://drive.google.com/file/d/1_FuFzCfYmCvx_l589-tPHz8Z3CtLfBcd/view?usp=sharing",
         "levelID":"1022"
@@ -106,6 +119,7 @@
     {
         "name": "Chal mix",
         "creator": "Serha1",
+        "verifier": "Serha1",
         "imageURL": "images/source/chal mix.png",
         "videoURL": false,
         "levelID":"359"
@@ -114,6 +128,7 @@
     {
         "name": "6f3c",
         "creator": "KopelaSoula",
+        "verifier": "KopelaSoula",
         "imageURL": "images/source/6f3c.png",
         "videoURL": "https://youtu.be/XpTIh6OVRAM?si=NCWoJXk4SFxetaBm",
         "levelID":"667"
@@ -122,6 +137,7 @@
     {
         "name": "Wave Challenge",
         "creator": "Poveez",
+        "verifier": "Poveez",
         "imageURL": "images/source/wave challenge.png",
         "videoURL": "https://youtu.be/M5qR9LwBoHE?si=FCEbzHVzgi3vsmsm",
         "levelID":"741"
@@ -130,6 +146,7 @@
     {
         "name": "Ship Challenge",
         "creator": "Poveez",
+        "verifier": "Poveez",
         "imageURL": "images/source/ship challenge.png",
         "videoURL": "https://youtu.be/M5qR9LwBoHE?si=FCEbzHVzgi3vsmsm",
         "levelID":"730"
