@@ -1,6 +1,7 @@
 [
   {
     "name":"Zefirfy",
+    "icon":"Zefirfy.png",
     "points":null,
     "levels": [
       [1064, true],
@@ -13,6 +14,7 @@
 
   {
     "name":"Test",
+    "icon":false,
     "points":null,
     "levels": [
       [1064, false],
