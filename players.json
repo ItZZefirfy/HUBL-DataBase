@@ -15,7 +15,7 @@
 
   {
     "name":"Ruslanych",
-    "icon":false,
+    "icon":"Ruslanych",
     "points":null,
     "levels": [
       [1064, false],
@@ -29,7 +29,7 @@
 
   {
     "name":"Artembird",
-    "icon":false,
+    "icon":"Artembird",
     "points":null,
     "levels": [
       [542, true],
@@ -44,7 +44,7 @@
 
   {
     "name":"KopelaSoula",
-    "icon":false,
+    "icon":"KopelaSoula",
     "points":null,
     "levels": [
       [1160, true],
@@ -57,7 +57,7 @@
 
   {
     "name":"LomamovRu",
-    "icon":false,
+    "icon":"LomamovRu",
     "points":null,
     "levels": [
       [170, true]
@@ -76,7 +76,7 @@
 
   {
     "name":"mintyzz",
-    "icon":false,
+    "icon":"mintyzz",
     "points":null,
     "levels": [
       [1022, true]
@@ -85,7 +85,7 @@
   
   {
     "name":"SUNDER",
-    "icon":false,
+    "icon":"SUNDER",
     "points":null,
     "levels": [
       [1146, true]
