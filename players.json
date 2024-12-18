@@ -36,7 +36,59 @@
       [454, true],
       [596, true],
       [148, false],
-      [170, false]
+      [170, false],
+      [989, true],
+      [363, true]
+    ]
+  },
+
+  {
+    "name":"KopelaSoula",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [1160, true],
+      [683, true],
+      [667, true],
+      [1010, true],
+      [359, false]
+    ]
+  },
+
+  {
+    "name":"LomamovRu",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [170, true]
+    ]
+  },
+
+  {
+    "name":"Poveez",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [741, true],
+      [730, true]
+    ]
+  },
+
+  {
+    "name":"mintyzz",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [1022, true]
+    ]
+  },
+  
+  {
+    "name":"SUNDER",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [1146, true]
     ]
   }
 ]
