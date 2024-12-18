@@ -4,6 +4,7 @@
     "icon":"Zefirfy.png",
     "points":null,
     "levels": [
+      [1207, true],
       [1064, true],
       [1003, true],
       [869, true],
@@ -13,15 +14,14 @@
   },
 
   {
-    "name":"Test",
+    "name":"Ruslanych",
     "icon":false,
     "points":null,
     "levels": [
       [1064, false],
-      [1003, false],
       [869, false],
-      [683, true],
-      [587, true]
+      [887, true],
+      [596, false]
     ]
   }
 ]
