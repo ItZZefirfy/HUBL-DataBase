@@ -21,7 +21,22 @@
       [1064, false],
       [869, false],
       [887, true],
+      [1036, false],
+      [596, false],
       [596, false]
+    ]
+  },
+
+  {
+    "name":"Artembird",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [542, true],
+      [454, true],
+      [596, true],
+      [148, false],
+      [170, false]
     ]
   }
 ]
