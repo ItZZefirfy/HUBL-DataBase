@@ -75,7 +75,7 @@
         "name": "KOCMOC Challenge",
         "creator": "Artembird",
         "verifier": "Artembird",
-        "imageURL": "images/source/KOCMOC challenge.png",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/KOCMOC challenge.png",
         "videoURL": false,
         "levelID":"363"
     },
