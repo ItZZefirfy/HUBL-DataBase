@@ -9,7 +9,8 @@
       [1003, true],
       [869, true],
       [683, false],
-      [587, false]
+      [587, false],
+      [1223, false]
     ]
   },
 
@@ -51,7 +52,8 @@
       [683, true],
       [667, true],
       [1010, true],
-      [359, false]
+      [359, false],
+      [1223, true]
     ]
   },
 
