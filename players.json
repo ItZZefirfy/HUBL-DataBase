@@ -1,7 +1,10 @@
 [
   {
     "name":"Zefirfy",
+    "icon":"Zefirfy.png",
+    "points":null,
     "levels": [
+      [1207, true],
       [1064, true],
       [1003, true],
       [869, true],
@@ -11,13 +14,81 @@
   },
 
   {
-    "name":"Test",
+    "name":"Ruslanych",
+    "icon":"Ruslanych.png",
+    "points":null,
     "levels": [
       [1064, false],
-      [1003, false],
       [869, false],
+      [887, true],
+      [1036, false],
+      [596, false],
+      [170, false]
+    ]
+  },
+
+  {
+    "name":"Artembird",
+    "icon":"Artembird.png",
+    "points":null,
+    "levels": [
+      [542, true],
+      [454, true],
+      [596, true],
+      [148, false],
+      [170, false],
+      [989, true],
+      [363, true]
+    ]
+  },
+
+  {
+    "name":"KopelaSoula",
+    "icon":"KopelaSoula.png",
+    "points":null,
+    "levels": [
+      [1160, true],
       [683, true],
-      [587, true]
+      [667, true],
+      [1010, true],
+      [359, false]
+    ]
+  },
+
+  {
+    "name":"LomamovRu",
+    "icon":"LomamovRu.png",
+    "points":null,
+    "levels": [
+      [170, true]
+    ]
+  },
+
+  {
+    "name":"Poveez",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [741, true],
+      [730, true]
+    ]
+  },
+
+  {
+    "name":"mintyzz",
+    "icon":"mintyzz.png",
+    "points":null,
+    "levels": [
+      [1022, true]
+    ]
+  },
+  
+  {
+    "name":"SUNDER",
+    "icon":"SUNDER.png",
+    "points":null,
+    "levels": [
+      [1146, true]
     ]
   }
 ]
