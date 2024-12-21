@@ -36,6 +36,15 @@
     },
 
     {
+        "name": "wocky challenge",
+        "creator": "drsdz",
+        "verifier": "drsdz",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/wocky%20challenge.png",
+        "videoURL": "https://youtu.be/UMmTbXQ1FEk",
+        "levelID":"1054"
+    },
+    
+    {
         "name": "Project Z",
         "creator": "Zefirfy",
         "verifier": "Zefirfy",
@@ -45,20 +54,11 @@
     },
 
     {
-        "name": "wocky challenge",
-        "creator": "drsdz",
-        "verifier": "drsdz",
-        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/wocky%20challenge.png",
-        "videoURL": "https://youtu.be/UMmTbXQ1FEk",
-        "levelID":"1054"
-    },
-
-    {
         "name": "The Lomamov Limit",
         "creator": "KopelaSoula",
         "verifier": "KopelaSoula",
         "imageURL": "images/source/lomamov limit.png",
-        "videoURL": false,
+        "videoURL": "https://youtu.be/mSh2ztZI1ZU?si=P3yEmCDNhSQIqt3Y",
         "levelID":"683"
     },
 
@@ -78,6 +78,15 @@
         "imageURL": "images/source/KOCMOC challenge.png",
         "videoURL": false,
         "levelID":"363"
+    },
+
+    {
+        "name": "Wave challenge",
+        "creator": "brwiid",
+        "verifier": "KopelaSoula",
+        "imageURL": "images/source/Wave challenge 1.png",
+        "videoURL": "https://youtu.be/y5nrDnNsU2c?si=9H71jKDe_u-iZcLn",
+        "levelID":"1223"
     },
 
     {
@@ -130,7 +139,7 @@
         "creator": "KopelaSoula",
         "verifier": "KopelaSoula",
         "imageURL": "images/source/6f3c.png",
-        "videoURL": "https://youtu.be/XpTIh6OVRAM?si=NCWoJXk4SFxetaBm",
+        "videoURL": "https://youtu.be/2e6l6TtQ9w8?si=ej9wV3cyv1zLraeU",
         "levelID":"667"
     },
 
