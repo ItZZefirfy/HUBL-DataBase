@@ -75,18 +75,9 @@
         "name": "KOCMOC Challenge",
         "creator": "Artembird",
         "verifier": "Artembird",
-        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/KOCMOC challenge.png",
+        "imageURL": "images/source/KOCMOC challenge.png",
         "videoURL": false,
         "levelID":"363"
-    },
-
-    {
-        "name": "Wave challenge",
-        "creator": "brwiid",
-        "verifier": "KopelaSoula",
-        "imageURL": "images/source/Wave challenge 1.png",
-        "videoURL": "https://youtu.be/y5nrDnNsU2c?si=9H71jKDe_u-iZcLn",
-        "levelID":"1223"
     },
 
     {
@@ -97,6 +88,15 @@
         "videoURL": false,
         "levelID":"1010"
     }, 
+
+    {
+        "name": "Wave challenge",
+        "creator": "brwiid",
+        "verifier": "KopelaSoula",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/Wave challenge 1.png",
+        "videoURL": "https://youtu.be/y5nrDnNsU2c?si=9H71jKDe_u-iZcLn",
+        "levelID":"1223"
+    },
 
     {
         "name": "Hoarfrost challenge",
