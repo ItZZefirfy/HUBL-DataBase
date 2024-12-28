@@ -53,7 +53,8 @@
       [667, true],
       [1010, true],
       [359, false],
-      [1223, true]
+      [1223, true],
+      [1254, true]
     ]
   },
 
@@ -91,6 +92,15 @@
     "points":null,
     "levels": [
       [1146, true]
+    ]
+  },
+
+  {
+    "name":"Better",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [1256, true]
     ]
   }
 ]
