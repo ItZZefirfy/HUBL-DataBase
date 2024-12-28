@@ -45,30 +45,21 @@
     },
 
     {
-        "name": "Older Wave",
-        "creator": "Nerd",
-        "verifier": "-unknown-",
-        "imageURL": "images/source/older wave.png",
-        "videoURL": false,
-        "levelID":"551"
-    },
-
-    {
-        "name": "Just like",
-        "creator": "Peredoznik",
-        "verifier": "-unknown-",
-        "imageURL": "images/source/just like.png",
-        "videoURL": "https://youtu.be/0_5Fh3c1WWw?si=jpvbeLzB8A3pGhFi",
-        "levelID":"206"
-    },
-
-    {
         "name": "Just Demon",
         "creator": "Peredoznik",
         "verifier": "-unknown-",
         "imageURL": "images/source/just demon.png",
         "videoURL": false,
         "levelID":"232"
+    },
+
+    {
+        "name": "Claustrophobia",
+        "creator": "Better",
+        "verifier": "Better",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1256.png",
+        "videoURL": "https://drive.google.com/file/d/1c-oIBfpylhVJg_QRDiievobbaWtccNXk/view?usp=sharing",
+        "levelID":"1256"
     },
 
     {
