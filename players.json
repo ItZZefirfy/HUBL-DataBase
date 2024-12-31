@@ -102,5 +102,14 @@
     "levels": [
       [1256, true]
     ]
+  },
+  
+  {
+    "name":"qwexzl123",
+    "icon":"qwexzl123",
+    "points":null,
+    "levels": [
+      [359, false]
+    ]
   }
 ]
