@@ -10,7 +10,8 @@
       [869, true],
       [683, false],
       [587, false],
-      [1223, false]
+      [1223, false],
+      [1285, true]
     ]
   },
 
@@ -109,7 +110,8 @@
     "icon":"qwexzl123.png",
     "points":null,
     "levels": [
-      [359, false]
+      [359, false],
+      [1284, true]
     ]
   }
 ]
