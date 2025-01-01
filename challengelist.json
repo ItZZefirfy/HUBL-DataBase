@@ -9,6 +9,15 @@
     },
 
     {
+        "name": "simplify",
+        "creator": "Zefirfy",
+        "verifier": "Zefirfy",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1285.png",
+        "videoURL": "https://youtu.be/nZGkCN0wlz8?si=f36B2Vs0K_sSswYd",
+        "levelID":"1285"
+    },
+
+    {
         "name": "The Hallucination",
         "creator": "Zefirfy",
         "verifier": "Zefirfy",
@@ -51,6 +60,15 @@
         "imageURL": "images/source/project z.png",
         "videoURL": "https://www.youtube.com/watch?v=vyLgpk1gEmM",
         "levelID":"869"
+    },
+
+    {
+        "name": "Night is pretty",
+        "creator": "qwexzl123",
+        "verifier": "qwexzl123",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1284.png",
+        "videoURL": "https://youtu.be/lkWlVtGJXCA?si=8ejWF57k8xDMoeR8",
+        "levelID":"1284"
     },
 
     {
