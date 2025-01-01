@@ -111,7 +111,8 @@
     "points":null,
     "levels": [
       [359, false],
-      [1284, true]
+      [1284, true],
+      [1274, true]
     ]
   }
 ]
