@@ -117,15 +117,6 @@
     },
 
     {
-        "name": "Hoarfrost challenge",
-        "creator": "SUNDER",
-        "verifier": "SUNDER",
-        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/Hoarfrost%20challenge.png",
-        "videoURL": "https://youtu.be/32wwFODjcMQ?si=xmFQgKBDrEoxY3nY",
-        "levelID":"1146"
-    },
-
-    {
         "name": "NORMALITY",
         "creator": "Mark",
         "verifier": "Mark",
@@ -135,12 +126,30 @@
     },
 
     {
-        "name": "dark side of moon",
-        "creator": "mintyzz",
-        "verifier": "mintyzz",
-        "imageURL": "images/source/dark side of moon.png",
-        "videoURL": "https://drive.google.com/file/d/1_FuFzCfYmCvx_l589-tPHz8Z3CtLfBcd/view?usp=sharing",
-        "levelID":"1022"
+        "name": "Hoarfrost challenge",
+        "creator": "SUNDER",
+        "verifier": "SUNDER",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/Hoarfrost%20challenge.png",
+        "videoURL": "https://youtu.be/32wwFODjcMQ?si=xmFQgKBDrEoxY3nY",
+        "levelID":"1146"
+    },
+
+    {
+        "name": "slaughterhouse chall ",
+        "creator": "qwexzl123",
+        "verifier": "qwexzl123",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1274.png",
+        "videoURL": "https://youtu.be/lh3FI012Y24",
+        "levelID":"1274"
+    },
+
+    {
+        "name": "6f3c",
+        "creator": "KopelaSoula",
+        "verifier": "KopelaSoula",
+        "imageURL": "images/source/6f3c.png",
+        "videoURL": "https://youtu.be/2e6l6TtQ9w8?si=ej9wV3cyv1zLraeU",
+        "levelID":"667"
     },
 
     {
@@ -153,12 +162,12 @@
     },
 
     {
-        "name": "6f3c",
-        "creator": "KopelaSoula",
-        "verifier": "KopelaSoula",
-        "imageURL": "images/source/6f3c.png",
-        "videoURL": "https://youtu.be/2e6l6TtQ9w8?si=ej9wV3cyv1zLraeU",
-        "levelID":"667"
+        "name": "dark side of moon",
+        "creator": "mintyzz",
+        "verifier": "mintyzz",
+        "imageURL": "images/source/dark side of moon.png",
+        "videoURL": "https://drive.google.com/file/d/1_FuFzCfYmCvx_l589-tPHz8Z3CtLfBcd/view?usp=sharing",
+        "levelID":"1022"
     },
 
     {
