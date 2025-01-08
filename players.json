@@ -124,7 +124,17 @@
     "levels": [
       [1299, true],
       [1064, false],
-      [1285, false]
+      [1285, false],
+      [1321, true]
+    ]
+  },
+
+  {
+    "name":"dizya1",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [1323, true]
     ]
   }
 ]
