@@ -9,6 +9,15 @@
     },
 
     {
+        "name": "Creator",
+        "creator": "dizya1",
+        "verifier": "dizya1",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1323.png",
+        "videoURL": "https://www.youtube.com/watch?v=duABNBY3z-o",
+        "levelID":"1323"
+    },
+
+    {
         "name": "Sparkler",
         "creator": "--collaboration--",
         "verifier": "-unknown-",
