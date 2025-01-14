@@ -134,7 +134,8 @@
     "icon":false,
     "points":null,
     "levels": [
-      [1323, true]
+      [1323, true],
+      [1345, true]
     ]
   }
 ]
