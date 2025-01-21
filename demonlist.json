@@ -58,7 +58,7 @@
         "creator": "Artembird",
         "verifier": "Artembird",
         "imageURL": "images/source/Apple Vomit.png",
-        "videoURL": "https://drive.google.com/file/d/1P7gYKW_mX1MbZPkfwh9H7-VvnAcQVxd_/view",
+        "videoURL": false,
         "levelID":"596"
     },
 
@@ -76,7 +76,7 @@
         "creator": "Better",
         "verifier": "Better",
         "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1256.png",
-        "videoURL": "https://drive.google.com/file/d/1c-oIBfpylhVJg_QRDiievobbaWtccNXk/view?usp=sharing",
+        "videoURL": false,
         "levelID":"1256"
     },
 
