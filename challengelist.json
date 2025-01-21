@@ -103,7 +103,7 @@
         "creator": "TOBAP",
         "verifier": "Artembird",
         "imageURL": "images/source/8joh.png",
-        "videoURL": "https://drive.google.com/file/d/1gkoUxw7gEORAX1X2hE356q4cTN62Zdq-/view?usp=sharing",
+        "videoURL": false,
         "levelID":"989"
     },
 
@@ -184,7 +184,7 @@
         "creator": "mintyzz",
         "verifier": "mintyzz",
         "imageURL": "images/source/dark side of moon.png",
-        "videoURL": "https://drive.google.com/file/d/1_FuFzCfYmCvx_l589-tPHz8Z3CtLfBcd/view?usp=sharing",
+        "videoURL": false,
         "levelID":"1022"
     },
 
