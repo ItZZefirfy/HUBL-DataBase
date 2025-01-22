@@ -137,5 +137,24 @@
       [1323, true],
       [1345, true]
     ]
+  },
+
+  {
+    "name":"zhopolom",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [1345, false]
+    ]
+  },
+
+  {
+    "name":"osiris",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [1284, false],
+      [1223, false]
+    ]
   }
 ]
