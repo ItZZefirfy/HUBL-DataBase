@@ -11,7 +11,9 @@
       [683, false],
       [587, false],
       [1223, false],
-      [1285, true]
+      [1285, true],
+      [1037, false],
+      [1418, false]
     ]
   },
 
@@ -56,7 +58,10 @@
       [359, false],
       [1223, true],
       [1254, true],
-      [1284, false]
+      [1284, false],
+      
+      [1037, true],
+      [1416, true]
     ]
   },
 
@@ -102,7 +107,8 @@
     "icon":false,
     "points":null,
     "levels": [
-      [1256, true]
+      [1256, true],
+      [1387, true]
     ]
   },
   
@@ -155,7 +161,8 @@
     "levels": [
       [1284, false],
       [1223, false],
-      [1369, true]
+      [1369, true],
+      [1037, false]
     ]
   }
 ]
