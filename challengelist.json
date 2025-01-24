@@ -63,6 +63,15 @@
     },
 
     {
+        "name": "CChallenge New",
+        "creator": "Osiris",
+        "verifier": "Osiris",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1418.png",
+        "videoURL": "https://youtu.be/PACdll4lyXQ?si=KloroAihitM-HXd8",
+        "levelID":"1418"
+    },
+
+    {
         "name": "green chall for GODZ",
         "creator": "KopelaSoula",
         "verifier": "KopelaSoula",
@@ -81,6 +90,15 @@
     },
 
     {
+        "name": "OCJLUK HA BEJLUKE",
+        "creator": "Artembird",
+        "verifier": "KopelaSoula",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1037.png",
+        "videoURL": "https://youtu.be/3HstnzuE7R0?si=nM5n8a4w_tFxdmaB",
+        "levelID":"1037"
+    },
+
+    {
         "name": "mordaScape XP9K",
         "creator": "osiris",
         "verifier": "osiris",
@@ -96,6 +114,15 @@
         "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1284.png",
         "videoURL": "https://youtu.be/lkWlVtGJXCA?si=8ejWF57k8xDMoeR8",
         "levelID":"1284"
+    },
+
+    {
+        "name": "3SHiHALT",
+        "creator": "KopelaSoula",
+        "verifier": "KopelaSoula",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1416.png",
+        "videoURL": "https://youtu.be/Oyg6RWEfdgI?si=-qpU4hT31zy9F53r",
+        "levelID":"1416"
     },
 
     {
@@ -132,6 +159,15 @@
         "imageURL": "images/source/arganoid.png",
         "videoURL": false,
         "levelID":"1010"
+    }, 
+
+    {
+        "name": "jjj",
+        "creator": "Zefirfy",
+        "verifier": "Better",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1387.png",
+        "videoURL": "https://drive.google.com/file/d/1esd0qFsXZTAB_0kSg8aU4eACY2UmzUFY/view?usp=drivesdk",
+        "levelID":"1387"
     }, 
 
     {
