@@ -13,7 +13,8 @@
       [1223, false],
       [1285, true],
       [1037, false],
-      [1418, false]
+      [1418, false],
+      [1160, false]
     ]
   },
 
@@ -163,6 +164,15 @@
       [1223, false],
       [1369, true],
       [1037, false]
+    ]
+  },
+
+  {
+    "name":"itzbit",
+    "icon":false,
+    "points":null,
+    "levels": [
+      [741, false]
     ]
   }
 ]
