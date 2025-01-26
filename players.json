@@ -105,7 +105,7 @@
 
   {
     "name":"Better",
-    "icon":false,
+    "icon":"Better.png",
     "points":null,
     "levels": [
       [1256, true],
@@ -138,7 +138,7 @@
 
   {
     "name":"dizya1",
-    "icon":false,
+    "icon":"dizya1.png",
     "points":null,
     "levels": [
       [1323, true],
@@ -157,7 +157,7 @@
 
   {
     "name":"osiris",
-    "icon":false,
+    "icon":"osiris.png",
     "points":null,
     "levels": [
       [1284, false],
