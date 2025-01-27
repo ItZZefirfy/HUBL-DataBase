@@ -45,6 +45,15 @@
     },
 
     {
+        "name": "Xixo Nightmare",
+        "creator": "Better",
+        "verifier": "Better",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1400.png",
+        "videoURL": false,
+        "levelID":"1400"
+    },
+
+    {
         "name": "250 MPH",
         "creator": "Artembird",
         "verifier": "Artembird",
@@ -60,6 +69,15 @@
         "imageURL": "images/source/Apple Vomit.png",
         "videoURL": false,
         "levelID":"596"
+    },
+
+    {
+        "name": "Astral Mirage",
+        "creator": "-unknown-",
+        "verifier": "Better",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1428.png",
+        "videoURL": false,
+        "levelID":"1428"
     },
 
     {
