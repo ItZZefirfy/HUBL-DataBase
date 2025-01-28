@@ -185,5 +185,14 @@
     "levels": [
       [1432, true]
     ]
+  },
+
+  {
+    "name":"devilixer",
+    "icon":"devilixer.png",
+    "points":null,
+    "levels": [
+      [1353, true]
+    ]
   }
 ]
