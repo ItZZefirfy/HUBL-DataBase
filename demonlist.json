@@ -54,6 +54,15 @@
     },
 
     {
+        "name": "Heavy Metal",
+        "creator": "devilixer",
+        "verifier": "devilixer",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1353.jpg",
+        "videoURL": false,
+        "levelID":"1353"
+    },
+
+    {
         "name": "Apple Vomit",
         "creator": "Artembird",
         "verifier": "Artembird",
