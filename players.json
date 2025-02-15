@@ -176,7 +176,9 @@
     "icon":false,
     "points":null,
     "levels": [
-      [741, false]
+      [741, false],
+      [989, false],
+      [667, false]
     ]
   },
 
