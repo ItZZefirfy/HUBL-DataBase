@@ -63,6 +63,15 @@
     },
 
     {
+        "name": "Project Btr",
+        "creator": "Better",
+        "verifier": "Better",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1536.png",
+        "videoURL": "https://www.youtube.com/watch?v=xdhxoCSUiz8",
+        "levelID":"1536"
+    },
+
+    {
         "name": "15cod",
         "creator": "kyokotsu",
         "verifier": "kyokotsu",
@@ -189,15 +198,6 @@
     }, 
 
     {
-        "name": "Wave challenge",
-        "creator": "brwiid",
-        "verifier": "KopelaSoula",
-        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/Wave%20Challenge%201.png",
-        "videoURL": "https://youtu.be/y5nrDnNsU2c?si=9H71jKDe_u-iZcLn",
-        "levelID":"1223"
-    },
-
-    {
         "name": "NORMALITY",
         "creator": "Mark",
         "verifier": "Mark",
@@ -216,12 +216,30 @@
     },
 
     {
+        "name": "Aqua Dance",
+        "creator": "Artembird",
+        "verifier": "Artembird",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/329.png",
+        "videoURL": "https://youtu.be/y5nrDnNsU2c?si=9H71jKDe_u-iZcLn",
+        "levelID":"329"
+    },
+
+    {
         "name": "slaughterhouse chall ",
         "creator": "qwexzl123",
         "verifier": "qwexzl123",
         "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1274.png",
         "videoURL": "https://youtu.be/lh3FI012Y24",
         "levelID":"1274"
+    },
+
+    {
+        "name": "Wave challenge",
+        "creator": "brwiid",
+        "verifier": "KopelaSoula",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/Wave%20Challenge%201.png",
+        "videoURL": "https://youtu.be/y5nrDnNsU2c?si=9H71jKDe_u-iZcLn",
+        "levelID":"1223"
     },
 
     {
