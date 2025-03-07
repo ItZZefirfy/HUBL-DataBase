@@ -90,6 +90,15 @@
     },
 
     {
+        "name": "CChallenge New",
+        "creator": "Osiris",
+        "verifier": "Osiris",
+        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1418.png",
+        "videoURL": "https://youtu.be/PACdll4lyXQ?si=KloroAihitM-HXd8",
+        "levelID":"1418"
+    },
+
+    {
         "name": "green chall for GODZ",
         "creator": "KopelaSoula",
         "verifier": "KopelaSoula",
@@ -105,15 +114,6 @@
         "imageURL": "images/source/project z.png",
         "videoURL": "https://www.youtube.com/watch?v=vyLgpk1gEmM",
         "levelID":"869"
-    },
-
-    {
-        "name": "CChallenge New",
-        "creator": "Osiris",
-        "verifier": "Osiris",
-        "imageURL": "https://raw.githubusercontent.com/ItZZefirfy/HUBL-DataBase/refs/heads/main/previews/1418.png",
-        "videoURL": "https://youtu.be/PACdll4lyXQ?si=KloroAihitM-HXd8",
-        "levelID":"1418"
     },
 
     {
